@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Install required packages first:
+#sudo apt-get install default-jre libreoffice curl procmail mpack pdftk
+
 #=== VARIABLES ===
 
 #mode: 1-download from server, 2-only process existing messages
